@@ -17,8 +17,7 @@
     + Non-Parametric Estimators for Survival Analysis
   + Week 4
     + Cox Proportional Hazards and Random Survival Forests
-+ **[AI for Medical Treatment]
-(https://www.coursera.org/learn/ai-for-medical-treatment)**
++ **[AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)**
   + Week 1
     + Estimating Treatment Effect Using Machine Learning
   + Week 2
