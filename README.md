@@ -19,9 +19,9 @@
     + Cox Proportional Hazards and Random Survival Forests
 + **[AI for Medical Treatment]
 (https://www.coursera.org/learn/ai-for-medical-treatment)**
-  +Week 1
-    +Estimating Treatment Effect Using Machine Learning
-  +Week 2
-    +Natural Language Entity Extraction
-  +Week 3
-    +ML Interpretation 
+  + Week 1
+    + Estimating Treatment Effect Using Machine Learning
+  + Week 2
+    + Natural Language Entity Extraction
+  + Week 3
+    + ML Interpretation 
